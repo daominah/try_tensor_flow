@@ -1,0 +1,12 @@
+# Python packaging
+/build
+/dist/
+/*.egg-info
+venv
+*.pyc
+__pycache__
+
+# ide
+.vscode/**
+.idea/**
+*.iml
